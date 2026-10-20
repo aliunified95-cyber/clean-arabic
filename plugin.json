@@ -17,7 +17,18 @@
         "capabilities": [],
         "defaultPrompt": "Review or localize this content into accurate, natural Arabic using Clean Arabic by AM95.",
         "logo": "./assets/clean-arabic-icon.png",
-        "composerIcon": "./assets/clean-arabic-icon.png"
+        "composerIcon": "./assets/clean-arabic-icon.png",
+        "websiteURL": "https://github.com/aliunified95-cyber/clean-arabic",
+        "supportURL": "https://github.com/aliunified95-cyber/clean-arabic/issues",
+        "privacyPolicyURL": "https://github.com/aliunified95-cyber/clean-arabic/blob/main/PRIVACY.md",
+        "termsOfServiceURL": "https://github.com/aliunified95-cyber/clean-arabic/blob/main/TERMS.md"
+      },
+      "publication": {
+        "countries": []
+      },
+      "review": {
+        "commerce": false,
+        "commerce_description": "This skills-only plugin provides Arabic writing guidance and has no checkout, payment processing, subscription controls, or in-plugin purchases."
       }
     }
   }
