@@ -1,0 +1,25 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "clean-arabic-by-am95",
+  "version": "1.0.0",
+  "description": "Advanced context-aware Arabic grammar, editing, and game localization workflow.",
+  "author": {
+    "name": "AM95"
+  },
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Clean Arabic by AM95",
+        "shortDescription": "Advanced Arabic localization",
+        "longDescription": "An advanced Arabic editing and localization skill covering grammar, morphology, agreement, semantics, game narrative, variables, GCC cultural fit, terminology, and quality assurance.",
+        "developerName": "AM95",
+        "category": "Writing",
+        "capabilities": [],
+        "defaultPrompt": "Review or localize this content into accurate, natural Arabic using Clean Arabic by AM95.",
+        "logo": "./assets/clean-arabic-icon.png",
+        "composerIcon": "./assets/clean-arabic-icon.png"
+      }
+    }
+  }
+}
+
