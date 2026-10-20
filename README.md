@@ -1,5 +1,7 @@
 # Clean Arabic by AM95
 
+Published by **AM95**.
+
 An advanced, context-aware Arabic editing and localization skill for MSA and specified regional audiences. It covers grammar, morphology, pronouns and agreement, semantics and style, English-to-Arabic localization, Lifuna game narrative and runtime variables, GCC cultural precision, terminology governance, and QA.
 
 ## Package contents
