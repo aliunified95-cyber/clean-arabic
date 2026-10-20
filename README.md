@@ -5,15 +5,16 @@ An advanced, context-aware Arabic editing and localization skill for MSA and spe
 ## Package contents
 
 - `skills/clean-arabic-by-am95/SKILL.md` — complete reusable skill instructions.
-- `skills/clean-arabic-by-am95/references/arabic-sources.md` — authoritative dictionary, academy, grammar, rhetoric, corpus, and localization reference guide.
-- `assets/clean-arabic-icon.png` — square plugin icon, also used for the composer icon.
-- `plugin.json` — Agent Plugins manifest.
+- `skills/clean-arabic-by-am95/references/arabic-sources.md` — dictionaries, academies, grammar, rhetoric, corpus, and localization references.
+- `assets/clean-arabic-icon.png` — square plugin and composer icon.
+- `plugin.json` — Agent Plugins manifest with listing metadata and public links.
+- `SUPPORT.md`, `PRIVACY.md`, `TERMS.md` — public support and policy pages.
 
 ## Use
 
-Add this repository as a plugin source or package the repository contents as a ZIP for the supported plugin installation workflow. The skill relies on client-supplied project canon and glossaries for Lifuna-specific decisions; it does not claim independent knowledge of game canon.
+Package the repository contents as a ZIP for the supported plugin workflow. Lifuna-specific choices rely on client-supplied canon and terminology; this skill does not claim independent knowledge of game canon.
 
-## Public listing status
+## Public directory
 
-The repository is public and the package source is prepared. A public directory listing still needs the publisher’s verified identity and the public website, support, privacy-policy, and terms URLs. Add those verified details to `plugin.json` before public submission. The package is a skills-only plugin and does not require MCP demo cases or reviewer credentials.
+The manifest points to this public repository for the plugin homepage and to the support and policy pages above. The plugin has no server, external API, or purchase functionality. The listing targets all available countries.
 
